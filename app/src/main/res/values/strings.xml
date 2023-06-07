@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="kms_por_litro">KMs per liter</string>
+    <string name="autonomia">Autonomy</string>
+    <string name="pre_o_por_litro">Price per liter</string>
+    <string name="pre_o">Price</string>
+    <string name="total_de_quil_metros">Km\'s Total</string>
+    <string name="dist_ncia">Distance</string>
+    <string name="calcular">Run</string>
+    <string name="r_0">R$ 0</string>
+    <string name="waste">Your waste was: </string>
+    <string name="validation"> Valor inválido </string>
+
+
+
+
+</resources>
